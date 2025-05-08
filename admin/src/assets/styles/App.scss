@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+  box-sizing: border-box;
+}
+
+// input[type="date"]::-webkit-datetime-edit-text,
+// input[type="date"]::-webkit-datetime-edit-month-field,
+// input[type="date"]::-webkit-datetime-edit-day-field,
+// input[type="date"]::-webkit-datetime-edit-year-field {
+//   color: #626262;
+// }
